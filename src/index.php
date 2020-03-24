@@ -1,0 +1,1 @@
+Moi <?= getenv('HELLO_NAME'); ?>!
